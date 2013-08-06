@@ -41,5 +41,9 @@ return array(
 
 	// messages
 	'updated' => 'Metadata updated',
+	
+	// admin posts per page
+	'admin_posts_per_page' => 'Admin posts per page',
+	'admin_posts_per_page_explain' => '',
 
 );
